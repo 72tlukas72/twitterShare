@@ -1,4 +1,4 @@
-# share-buttons
+# twitterShare
 Plugin přidává možnost sdílet článek na Twitter.
 
 Více info: https://tlukas.eu/uvod/socio-plugin-pro-sunlight-cms
